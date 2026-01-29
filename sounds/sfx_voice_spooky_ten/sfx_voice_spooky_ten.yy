@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_voice_spooky_ten",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.576,
+  "name":"sfx_voice_spooky_ten",
+  "parent":{
+    "name":"spooky",
+    "path":"folders/Sounds/voices/spooky.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_voice_spooky_ten.mp3",
+  "type":0,
+  "volume":0.5,
+}

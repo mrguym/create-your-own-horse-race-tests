@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_winjingle_defaultdearly",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.773061,
+  "name":"sfx_winjingle_defaultdearly",
+  "parent":{
+    "name":"win jingles",
+    "path":"folders/Sounds/win jingles.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_winjingle_defaultdearly.mp3",
+  "type":0,
+  "volume":0.8,
+}

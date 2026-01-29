@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_voice_weird_five",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.044898,
+  "name":"sfx_voice_weird_five",
+  "parent":{
+    "name":"weird",
+    "path":"folders/Sounds/voices/weird.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_voice_weird_five.mp3",
+  "type":0,
+  "volume":0.8,
+}
